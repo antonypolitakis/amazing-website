@@ -1,4 +1,4 @@
-# this is the arch
+# Architecture
 
 blahd de blah bla
 

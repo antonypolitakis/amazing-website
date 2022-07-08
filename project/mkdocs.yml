@@ -1,1 +1,14 @@
-site_name: My Docs
+site_name: Business App Name
+repo_url: https://github.com/antonypolitakis/amazing-website
+nav:
+    - 'index.md'
+    - 'arch.md'
+    - 'Engineering.md'
+    - 'Cyber.md'
+theme:
+    name: mkdocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
+
